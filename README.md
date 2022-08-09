@@ -1,6 +1,6 @@
-# Intro ao PyTorch
+# Introdução ao PyTorch
 
-Repo para a palestra no Microsoft Reactor SP.
+Repo para a palestra dada no Microsoft Reactor SP.
 
 O conteúdo deste repo foi feito a partir do módulo listado abaixo, tendo sido traduzido e revisado para o português.
 
